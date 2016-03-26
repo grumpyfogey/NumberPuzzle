@@ -1,0 +1,5 @@
+# for later exclude of files: untrack the files
+# $ git rm --cached
+
+obj/
+Properties/
